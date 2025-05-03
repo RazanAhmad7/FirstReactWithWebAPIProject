@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotNetWebApi\\WebAppApiTestBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|c:\\dotnetwebapi\\webappapitestbackend\\webappapitest\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|solutionrelative:webappapitest\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|c:\\dotnetwebapi\\webappapitestbackend\\webappapitest\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|solutionrelative:webappapitest\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|c:\\dotnetwebapi\\webappapitestbackend\\webappapitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|solutionrelative:webappapitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|c:\\dotnetwebapi\\webappapitestbackend\\webappapitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|solutionrelative:webappapitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|c:\\dotnetwebapi\\webappapitestbackend\\webappapitest\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|solutionrelative:webappapitest\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|c:\\dotnetwebapi\\webappapitestbackend\\webappapitest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|solutionrelative:webappapitest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|c:\\dotnetwebapi\\webappapitestbackend\\webappapitest\\migrations\\20250428092342_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8BD66E-832D-489E-BE31-2300C0E898F3}|WebAppApiTest\\WebAppApiTest.csproj|solutionrelative:webappapitest\\migrations\\20250428092342_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "WebAppApiTest\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "WebAppApiTest\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:26:44.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebAppApiTest\\Models\\Book.cs",
+              "ToolTip": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\Models\\Book.cs",
+              "RelativeToolTip": "WebAppApiTest\\Models\\Book.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:30:40.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppApiTest\\Program.cs",
+              "ToolTip": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\Program.cs",
+              "RelativeToolTip": "WebAppApiTest\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:41:38.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppApiTest\\appsettings.json",
+              "ToolTip": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\appsettings.json",
+              "RelativeToolTip": "WebAppApiTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T08:46:05.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250428092342_initialMigration.cs",
+              "DocumentMoniker": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\Migrations\\20250428092342_initialMigration.cs",
+              "RelativeDocumentMoniker": "WebAppApiTest\\Migrations\\20250428092342_initialMigration.cs",
+              "ToolTip": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\Migrations\\20250428092342_initialMigration.cs",
+              "RelativeToolTip": "WebAppApiTest\\Migrations\\20250428092342_initialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:23:42.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "WebAppApiTest\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "WebAppApiTest\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:02:53.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAppApiTest\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\dotNetWebApi\\WebAppApiTestBackend\\WebAppApiTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAppApiTest\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:16:58.175Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 249,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
